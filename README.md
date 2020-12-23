@@ -10,5 +10,5 @@ Aqui eu irei abordar uma era tecnológica que tem uma origem muito mais antiga, 
 
 Eu acho a maquinaria celular simplesmente fascinante, que vai desde uma única célula em um organismo unicelular, como as bactérias, os protozoários e algumas algas, até a sincronia e coordenação entre trilhões de células em uma baleia-azul.  
 
-Para integrar a biologia molecular com a programação, tentarei resolver alguns dos exercícios da plataforma [Rosalind.info](http://rosalind.info/problems/tree-view/) e de cursos online de bioinformática que venho fazendo, e agregar algumas informações ou comentários do ponto de vista biológico.
+Para integrar a biologia molecular com a programação, tentarei resolver alguns dos exercícios da plataforma [Rosalind](http://rosalind.info/problems/tree-view/) e de cursos online de bioinformática que venho fazendo, e agregar algumas informações ou comentários do ponto de vista biológico.
 
