@@ -10,7 +10,7 @@ Aqui eu irei abordar uma era tecnológica que teve uma origem muito mais antiga,
 
 Eu acho a maquinaria celular simplesmente fascinante, que vai desde a coordenação de uma única célula em um organismo unicelular, como nas bactérias, nos protozoários e em algumas algas, até a sincronia entre trilhões de células em uma baleia-azul ou em uma sequoia.  
 
-Para integrar a biologia molecular com a programação, colocarei aqui a resolução de alguns dos exercícios da plataforma [Rosalind](http://rosalind.info/problems/tree-view/) e de cursos online de bioinformática que venho fazendo, e tentar agregar algumas informações ou comentários do ponto de vista biológico/bioquímico. 
+Para integrar a biologia molecular com a programação, colocarei aqui a resolução de alguns dos exercícios da plataforma [Rosalind](http://rosalind.info/problems/tree-view/) e de cursos online de bioinformática que venho fazendo, e tentar agregar algumas informações ou comentários do ponto de vista biológico/bioquímico. Além disso, colocarei também os links para os vídeos que o Gulherme Silveira gravou no canal do YouTube - Guiminam - resolvendo alguns dos problemas da plataforma Rosalind.
 
 Portanto, o objetivo desse projeto é deixar documentado meus estudos em bioinformática e também ajudar aqueles que, assim como eu, estão começando a se aventurar por esse mundo híbrido da biologia/programação.
 
