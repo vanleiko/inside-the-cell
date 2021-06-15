@@ -3,7 +3,7 @@
 
 ## 💬 Sobre o projeto
 
-No meio do ano de 2020, comecei a estudar Python, Ciência de Dados e Bioinformática, pois meu objetivo é atuar nessa área. Uma das plataformas que utilizo para colocar em prática o que venho aprendendo é a plataforma [Rosalind](http://rosalind.info/problems/tree-view/), que tem exercícios de Bioinformática. Para minha surpresa, o Guilherme Silveira propôs de gravarmos para o [canal dele no Youtube](https://www.youtube.com/c/Guiminam/videos) a resolução de alguns desses exercícios, sendo que ele ficaria com a parte da programação, e eu com a biologia molecular.
+Uma das plataformas que utilizo para colocar em prática o que venho aprendendo é a plataforma [Rosalind](http://rosalind.info/problems/tree-view/), que tem exercícios de Bioinformática. Sabendo disso, o Guilherme Silveira propôs de gravarmos para o [canal dele no Youtube](https://www.youtube.com/c/Guiminam/videos) a resolução de alguns desses exercícios, sendo que ele ficaria com a parte da programação, e eu com a biologia molecular.
 
 
 ## 🚀 Objetivos do projeto
@@ -11,7 +11,7 @@ No meio do ano de 2020, comecei a estudar Python, Ciência de Dados e Bioinform�
 - mostrar um pouquinho os processos fascinantes que ocorrem dentro da célula.
 - complementar (do ponto de vista da biologia molecular) os vídeos da [playlist de Bioinformática](https://www.youtube.com/watch?v=bZ8w6CKOiaQ&list=PL-kOa62ayb1yYF0bRQBxTY3CRuCQdKJOX) do canal do Guilherme Silveira.
 - deixar documentado meus estudos em programação e bioinformática.
-- e quem sabe ajudar e estimular pessoas que, assim como eu, não têm formação em Ciência da Computação e afins, mas estão começando a se aventurar por esse mundo, OU quem tem formação em Ciência da Computação e afins e querem entender um pouco sobre a biologia molecular da célula.
+- estimular pessoas que, assim como eu, não têm formação em Ciência da Computação e afins, mas estão começando a se aventurar por esse mundo, OU quem tem formação em Ciência da Computação e afins e querem entender um pouco sobre a biologia molecular da célula.
 
 
 ## 🧐 O que você irá encontrar aqui
@@ -23,7 +23,4 @@ Cada arquivo desse repositório será referente a um problema biológico e nele 
 - link para o vídeo da resolução do exercício feita pelo Guilherme Silveira.
 
 
-## 🔨 Status do projeto
-
-Em constante construção.
 
